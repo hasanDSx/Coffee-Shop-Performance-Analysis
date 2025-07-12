@@ -1,4 +1,3 @@
-
 🔍 Data Analysis with SQL Server
 --
 
@@ -17,6 +16,7 @@ I worked on the transaction data to uncover key insights like:
 
 
 Here’s how I approached the analysis:
+--
 
 •	Writing efficient and optimized SQL queries with multiple CTEs and subqueries
 
@@ -31,8 +31,8 @@ Here’s how I approached the analysis:
 •	Segmenting sales by hour to pinpoint peak sales times
 
 
-
 📊 Interactive Dashboard Design in Power BI
+--
 
 I created an interactive Power BI dashboard that clearly presents the results and supports better decision-making, including:
 
