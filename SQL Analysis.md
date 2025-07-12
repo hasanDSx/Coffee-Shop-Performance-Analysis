@@ -2,6 +2,7 @@
 
 
 SELECT 
+
     COLUMN_NAME, 
     DATA_TYPE 
     
