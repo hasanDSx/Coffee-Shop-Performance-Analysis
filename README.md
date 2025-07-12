@@ -12,6 +12,7 @@ I worked on the transaction data to uncover key insights like:
 
 •	Evaluating daily sales against overall averages
 
+
 Here’s how I approached the analysis:
 
 •	Writing efficient and optimized SQL queries with multiple CTEs and subqueries
