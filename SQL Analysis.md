@@ -1,4 +1,5 @@
 -- columns info
+
 SELECT 
     COLUMN_NAME, 
     DATA_TYPE 
