@@ -1,5 +1,5 @@
 --
--- 🔍 Data Analysis with SQL Server
+🔍 Data Analysis with SQL Server
 --
 
 I worked on the transaction data to uncover key insights like:
