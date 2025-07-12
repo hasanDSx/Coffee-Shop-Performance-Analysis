@@ -1,9 +1,8 @@
 -- columns info
 
-SELECT 
 
+SELECT 
     COLUMN_NAME, 
-    
     DATA_TYPE 
     
 FROM INFORMATION_SCHEMA.COLUMNS 
