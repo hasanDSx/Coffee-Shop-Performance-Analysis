@@ -13,7 +13,7 @@ I worked on the transaction data to uncover key insights like:
 •	Evaluating daily sales against overall averages
 
 
-Here’s how I approached the analysis:
+- Here’s how I approached the analysis:
 
 •	Writing efficient and optimized SQL queries with multiple CTEs and subqueries
 
@@ -26,6 +26,7 @@ Here’s how I approached the analysis:
 •	Applying time intelligence analysis, like month-over-month revenue growth broken down by store location, product type, and category
 
 •	Segmenting sales by hour to pinpoint peak sales times
+
 
 
 📊 Interactive Dashboard Design in Power BI
