@@ -1,8 +1,3 @@
-I recently wrapped up a detailed project analyzing the performance of a coffee shop using Microsoft SQL Server and Power BI.
-
-The project covered everything from digging into raw data to building an interactive dashboard that makes the insights clear and helps with decision-making.
-
-
 🔍 Data Analysis with SQL Server
 
 I worked on the transaction data to uncover key insights like:
