@@ -1,4 +1,6 @@
+--
 -- 🔍 Data Analysis with SQL Server
+--
 
 I worked on the transaction data to uncover key insights like:
 
@@ -14,7 +16,7 @@ I worked on the transaction data to uncover key insights like:
 
 
 
-- Here’s how I approached the analysis:
+Here’s how I approached the analysis:
 
 •	Writing efficient and optimized SQL queries with multiple CTEs and subqueries
 
