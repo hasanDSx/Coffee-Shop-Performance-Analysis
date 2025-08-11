@@ -1,5 +1,5 @@
 🔍 Data Analysis with SQL Server
---
+________________________________________
 
 I worked on the transaction data to uncover key insights like:
 
@@ -16,7 +16,7 @@ I worked on the transaction data to uncover key insights like:
 
 
 Here’s how I approached the analysis:
---
+________________________________________
 
 •	Writing efficient and optimized SQL queries with multiple CTEs and subqueries
 
@@ -32,7 +32,7 @@ Here’s how I approached the analysis:
 
 
 📊 Interactive Dashboard Design in Power BI
---
+________________________________________
 
 I created an interactive Power BI dashboard that clearly presents the results and supports better decision-making, including:
 
