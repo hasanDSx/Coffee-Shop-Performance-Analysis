@@ -14,7 +14,7 @@ I worked on the transaction data to uncover key insights like:
 •	Evaluating daily sales against overall averages
 
 
-
+________________________________________
 Here’s how I approached the analysis:
 ________________________________________
 
@@ -30,7 +30,7 @@ ________________________________________
 
 •	Segmenting sales by hour to pinpoint peak sales times
 
-
+________________________________________
 📊 Interactive Dashboard Design in Power BI
 ________________________________________
 
